@@ -1,6 +1,6 @@
-# electrinic-arduino-skateboard
-Here are the record the development of making my own electrinic skateboard by arduino.<br />
-I want to upgrade my penny skateboard to an electrinic version without any physical destruction.
+# electronic-arduino-skateboard
+Here are the record the development of making my own electronic skateboard by arduino.<br />
+I want to upgrade my penny skateboard to an electronic version without any physical destruction.
 ## 20190613 - First prototype
 
 Using
