@@ -1,7 +1,7 @@
 # electronic-arduino-skateboard
 Here are the record the development of making my own electronic skateboard by arduino.<br />
 I want to upgrade my penny skateboard to an electronic version without any physical destruction.
-## 20190613 - Facing a problem
+## 20190617 - Facing a problem
 Problem
 * When i increase or decrease the speed, sometime i got an "PUM", and the Voltage Light ( when having an high Voltage, it will light up) will flash.<br/>
 * How to let bracket hold on the skateboard without physical destruction?<br/><br/>
